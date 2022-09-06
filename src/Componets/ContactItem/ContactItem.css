@@ -1,0 +1,19 @@
+.star{
+    position: absolute;
+    top: 14px;
+    left: 28px;
+    cursor: pointer;
+}
+
+.starFavorite{
+    color: #c8c81c;
+}
+.trash{
+    color: #c51717;
+    cursor: pointer;
+}
+.edit{
+    cursor: pointer;
+    color: bisque;
+    margin-right: 10px;
+}
